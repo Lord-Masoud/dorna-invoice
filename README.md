@@ -61,34 +61,34 @@ Built for businesses, freelancers, and professionals who need a simple and relia
 
 ---
 
-## 📦 Download
+## 📦 Download Dorna Invoice
 
-Get the latest version from the official GitHub Releases page.
+Get the latest official version of Dorna Invoice for Windows.
 
-**[Download Dorna Invoice – Latest Release](../../releases/latest)**
+### Latest Version: 2.2.0
 
-Available Windows editions and download options are listed in each release.
+[**⬇️ Download Latest Release**](https://github.com/Lord-Masoud/dorna-invoice/releases/latest)
 
-Depending on the release, downloads may include:
+### Choose Your Edition
 
-| Edition | Distribution | Description |
+| Edition | Version | Download |
 |---|---|---|
-| Simple | Installer | Standard Windows installation |
-| Simple | Portable | Run without installation |
-| Payments | Installer | Windows installation with payment tracking |
-| Payments | Portable | Portable version with payment tracking |
+| Simple | Installer | [Download](https://github.com/Lord-Masoud/dorna-invoice/releases/download/v2.2.0/DornaInvoice-Simple-Setup-v2.2.0.exe) |
+| Simple | Portable | [Download](https://github.com/Lord-Masoud/dorna-invoice/releases/download/v2.2.0/DornaInvoice-Simple-Portable-v2.2.0.exe) |
+| Payments | Installer | [Download](https://github.com/Lord-Masoud/dorna-invoice/releases/download/v2.2.0/DornaInvoice-Payments-Setup-v2.2.0.exe) |
+| Payments | Portable | [Download](https://github.com/Lord-Masoud/dorna-invoice/releases/download/v2.2.0/DornaInvoice-Payments-Portable-v2.2.0.exe) |
 
-### Installer vs. Portable
+### Which Edition Should You Choose?
 
-**Installer**
-- Standard Windows installation wizard.
-- Choose your preferred installation directory.
-- Suitable for regular use on one computer.
+- **Simple:** For users who need standard invoice creation and management.
+- **Payments:** For users who also need to record partial payments and track outstanding balances.
 
-**Portable**
-- No traditional installation required.
-- Run the application directly.
-- Convenient for use on different computers.
+### Installation Options
+
+- **Installer:** Install Dorna Invoice on your Windows computer.
+- **Portable:** Run the application without traditional installation.
+
+[View All Releases](https://github.com/Lord-Masoud/dorna-invoice/releases)
 
 ---
 
